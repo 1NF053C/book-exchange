@@ -1,5 +1,6 @@
 # book-exchange
 
+```
 concerns
 [ ] what books do I own?
 [ ] do I have a book on topic X?
@@ -14,3 +15,4 @@ operations
 [ ] offer one or more books to lend to family, friends, or community
 [ ] list a book for sale
 [ ] map local free book stands, libraries, book stores, and book donation locations
+```
