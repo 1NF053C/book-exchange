@@ -8,6 +8,7 @@ concerns
 [ ] does my friend, family, or community have a book on/by topic/author available?
 [ ] do any local stores offer $ or exchanges for books?
 [ ] where can I donate books I don't want anymore?
+[ ] where can I list my books for sale if I don't want to lend them?
 
 operations
 [ ] search for a book
